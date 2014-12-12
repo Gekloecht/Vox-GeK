@@ -1,0 +1,195 @@
+# Blender MTL File: 'usine_1.blend'
+# Material Count: 19
+
+newmtl 07ed3c42bcc009628682202f4fadd814bb1d48
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Addon - Gek Work\EuroTruck\SCS\prefab\light_factory\ground.dds
+
+newmtl 241375c965f61c768284bc0aabf996817ee664
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Addon - Gek Work\EuroTruck\SCS\prefab\heavy_factory\cargo_001.dds
+
+newmtl 4ca2006bd131dc29f5bd97bc16c03f2bf05a6a
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Addon - Gek Work\EuroTruck\SCS\prefab\heavy_factory\pipes_002.dds
+refl D:\\Addon - Gek Work\\EuroTruck\\SCS\\material\\environment\\building_reflection\\building_ref.dds
+
+newmtl 5241489833911935bf900cde3c548e6e87726c
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Addon - Gek Work\EuroTruck\SCS\prefab\heavy_factory\buildings_001.dds
+
+newmtl 52a5179cc893fb64df1f5fc128664566a34a62
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Addon - Gek Work\EuroTruck\SCS\prefab\light_factory\wall_002.dds
+
+newmtl 63597fc79dbb97c5c93024343ad52a82c77956
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Addon - Gek Work\EuroTruck\SCS\prefab\light_factory\buildings_light_001.dds
+refl D:\\Addon - Gek Work\\EuroTruck\\SCS\\material\\environment\\building_reflection\\building_ref.dds
+
+newmtl 68d55e8f7ef500f6cbed3bc8856fc0e00ba624
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Addon - Gek Work\EuroTruck\SCS\prefab\light_factory\wall_003.dds
+
+newmtl 69c0041455422c3e5cf9c2515021d6b2c3a4d8
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Addon - Gek Work\EuroTruck\SCS\material\logo\trameri.dds
+map_d D:\\Addon - Gek Work\\EuroTruck\\SCS\\material\\logo\\trameri.dds
+
+newmtl 77e2a90b33dc582dabbb43fc72b30fe6ee7d03
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl a5438f4c5bccc304362892ee9a40fa8aa17b6d
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Addon - Gek Work\EuroTruck\SCS\prefab\heavy_factory\roof_001.dds
+
+newmtl a87ab243a5572ec97c37b7e883ab2e88f84d1b
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Addon - Gek Work\EuroTruck\SCS\prefab\heavy_factory\road_decal_001.dds
+map_d D:\\Addon - Gek Work\\EuroTruck\\SCS\\prefab\\heavy_factory\\road_decal_001.dds
+
+newmtl b21b8e93e92ff7b65b153a8b374524bec88b3a
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Addon - Gek Work\EuroTruck\SCS\prefab\light_factory\wall_001_corner.dds
+
+newmtl bd42c0483e10ea9f4818020e465318f18ba0fb
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Addon - Gek Work\EuroTruck\SCS\model\warehouse\skidway.dds
+
+newmtl cd3d11393bb9618f31bea11a8243b483b38dca
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Addon - Gek Work\EuroTruck\SCS\prefab\light_factory\buildings_001.dds
+
+newmtl cf1f75c2653eb5331b4b45824de3f48d5b97e3
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Addon - Gek Work\EuroTruck\SCS\material\decal\bra_spot_lights_2.dds
+
+newmtl d1f67ddbe924708c895e29d256c0172cb5a1d4
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Addon - Gek Work\EuroTruck\SCS\prefab\light_factory\wall_001.dds
+
+newmtl hexagonal_pavement
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Addon - Gek Work\EuroTruck\SCS\material\road\hexagonal_pavement.dds
+
+newmtl rough_asphalt
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Addon - Gek Work\EuroTruck\SCS\material\road\rough_asphalt.dds
+
+newmtl sidewalk_kerb
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\Addon - Gek Work\EuroTruck\SCS\material\road\sidewalk_kerb.dds
