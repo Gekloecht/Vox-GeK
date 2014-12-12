@@ -1,6 +1,5 @@
 # Blender MTL File: 'usine_1.blend'
 # Material Count: 19
-// coucou
 
 newmtl 07ed3c42bcc009628682202f4fadd814bb1d48
 Ns 96.078431
