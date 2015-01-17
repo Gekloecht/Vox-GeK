@@ -51,8 +51,8 @@ class CfgVehicles {
 	class GeK_Sprinter_Ambulance: Truck_01_base_F
 	{
 		model 	= "\GeK_Sprinter_Ambulance\GeK_Sprinter_Base";  /// simple path to model
-		picture	= "\GeK_Sprinter_Ambulance\Data\icon420.paa"; /// just some icon in command bar
-		Icon	= "\GeK_Sprinter_Ambulance\Data\icon420.paa"; /// icon in map
+		picture	= "\PEU_308\map_suv_01_ca.paa"; /// Icone dans la barre de commande
+		Icon	= "\PEU_308\map_suv_01_ca.paa"; /// Icone sur la map	
 		author = "GeK for www.AltisLifeFr.com";
 
 		scope	= 2; 			/// makes the car visible in editor
@@ -74,7 +74,7 @@ class CfgVehicles {
 
 		cost			= 50000; /// how likely is the enemy going to target this vehicle
 		
-		transportMaxBackpacks 	= 10; /// just some backpacks fit the trunk by default
+		transportMaxBackpacks 	= 2; /// just some backpacks fit the trunk by default
 		transportSoldier 		= 1; /// number of cargo except driver
 		
 		/// some values from parent class to show how to set them up
